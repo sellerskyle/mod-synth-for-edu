@@ -16,13 +16,19 @@ This repository documents my contributions to my Senior Design Capstone project 
 
 <h2>System Overview</h2>
 The final system consists of 7 synthesizer modules, a power supply, and a wooden case. The modules included are:
-  Voltage Controlled Oscillator (VCO) : Generates basic waveforms and allows users to manipulate fundamental frequency
-  Voltage Controlled Filter (VCF) : High and Low Pass filters allow users to filter out frequency content from frequency rich signals
-  Digital Multi-Effects (DME) : Processes incoming audio with various digital effects via DSP algorithms
-  Level Control Module (LCM) : Brings output voltage from other modules down to appropriate level for analysis via National Instruments MyDAQ or active speakers
-  Envelope Generator (EG) : Produces a control voltage Attack Decay (AD) or Attack Release (AR) envelope for use in manipulating other modules.
-  Sequencer (SEQ) : Produces repeating pattern of control voltages to create melodies and rhythms
-  Wireless Control Module (WCM) : Allows users to wireless control parameters via control voltages from a mobile application
+
+- <strong>Voltage Controlled Oscillator (VCO)</strong> : Generates basic waveforms and allows users to manipulate fundamental frequency
+- <strong>Voltage Controlled Filter (VCF)</strong> : High and Low Pass filters allow users to filter out frequency content from frequency rich signals
+- <strong>Digital Multi-Effects (DME)</strong> : Processes incoming audio with various digital effects via DSP algorithms
+- <strong>Level Control Module (LCM)</strong> : Brings output voltage from other modules down to appropriate level for analysis via National Instruments MyDAQ or active speakers
+- <strong>Envelope Generator (EG)</strong> : Produces a control voltage Attack Decay (AD) or Attack Release (AR) envelope for use in manipulating other modules.
+- <strong>Sequencer (SEQ)</strong> : Produces repeating pattern of control voltages to create melodies and rhythms
+- <strong>Wireless Control Module (WCM)</strong> : Allows users to wireless control parameters via control voltages from a mobile application
 
 <h2>My Contribution</h2>
 As the Computer Engineer of the team, my responsibilities were to create the Digital Multi-Effects (DME) and the Wireless Control Module (WCM). Material for each can be found in their respective folders.
+
+<h2>Digital Multi-Effects (DME)</h2>
+The design for the DME module is based on the Electro-smith Daisy Patch: ([Link](https://www.electro-smith.com/daisy/patch) | [Schematic](https://github.com/electro-smith/Hardware/tree/master/reference/daisy_patch))
+
+<h2>Wireless Control Module (WCM)</h2>
