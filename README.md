@@ -3,16 +3,16 @@
 <h2>Introduction</h2>
 This repository documents my contributions to my Senior Design Capstone project at LSU: Modular Synthesis as an Educational Tool. As a cosponsor of this project, my team set out to create a mixed analog and digital modular synthesizer to be used alongside courses such as Electronics, Signals and Systems, and Digital Signal Processing. Our system strives to be a physical and tangible example of applications of concepts learned in these courses.
 
-University: LSU
-Year: Fall 2020 & Spring 2021
-Team: 80
-Members:
-  Rafael Alvarez
-  Keri Grevemvberg
-  Taylor LeBlanc
-  Tarik Lopez
-  Kyle Sellers
-Courses: EE 4810 and 4820
+- University: LSU
+- Year: Fall 2020 & Spring 2021
+- Team: 80
+- Members:
+  - Rafael Alvarez
+  - Keri Grevemvberg
+  - Taylor LeBlanc
+  - Tarik Lopez
+  - Kyle Sellers
+- Courses: EE 4810 and 4820
 
 <h2>System Overview</h2>
 The final system consists of 7 synthesizer modules, a power supply, and a wooden case. The modules included are:
