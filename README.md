@@ -14,6 +14,21 @@ This repository documents my contributions to my Senior Design Capstone project 
   - Kyle Sellers
 - Courses: EE 4810 and 4820
 
+<h2> Table of Contents </h2>
+
+ - System Overview
+   - My Contribution
+ - Digital Multi-Effects (DME)
+   - Overview
+   - Hardware
+   - Software
+ - Wireless Control Module (WCM)
+   - Overview
+   - Hardware
+   - Software (Mobile App)
+   - Software (Embedded)
+
+
 <h2>System Overview</h2>
 The final system consists of 7 synthesizer modules, a power supply, and a wooden case. The modules included are:
 
@@ -25,10 +40,14 @@ The final system consists of 7 synthesizer modules, a power supply, and a wooden
 - <strong>Sequencer (SEQ)</strong> : Produces repeating pattern of control voltages to create melodies and rhythms
 - <strong>Wireless Control Module (WCM)</strong> : Allows users to wireless control parameters via control voltages from a mobile application
 
-<h2>My Contribution</h2>
+<h3>My Contribution</h3>
 As the Computer Engineer of the team, my responsibilities were to create the Digital Multi-Effects (DME) and the Wireless Control Module (WCM). Material for each can be found in their respective folders.
 
 <h2>Digital Multi-Effects (DME)</h2>
-The design for the DME module is based on the Electro-smith Daisy Patch: ([Link](https://www.electro-smith.com/daisy/patch) | [Schematic](https://github.com/electro-smith/Hardware/tree/master/reference/daisy_patch))
+The design for the DME module is based on the Electro-smith Daisy Patch: 
+
+[Link](https://www.electro-smith.com/daisy/patch)
+
+[Schematic](https://github.com/electro-smith/Hardware/tree/master/reference/daisy_patch)
 
 <h2>Wireless Control Module (WCM)</h2>
