@@ -44,10 +44,23 @@ The final system consists of 7 synthesizer modules, a power supply, and a wooden
 As the Computer Engineer of the team, my responsibilities were to create the Digital Multi-Effects (DME) and the Wireless Control Module (WCM). Material for each can be found in their respective folders.
 
 <h2>Digital Multi-Effects (DME)</h2>
+<h3>Overview</h3>
+The Digital Multi-Effects processes a mono audio signal with one of four programmed effects: Distortion, Bitcrusher, Delay, or Reverb. Parameters for each of these effects can be manipulated by a physical knob on the module, or via a control voltage (CV) from another module.
+<h3>Hardware</h3>
 The design for the DME module is based on the Electro-smith Daisy Patch: 
 
 [Link](https://www.electro-smith.com/daisy/patch)
 
 [Schematic](https://github.com/electro-smith/Hardware/tree/master/reference/daisy_patch)
 
+<h3>Software</h3>
+
 <h2>Wireless Control Module (WCM)</h2>
+<h3>Overview</h3>
+
+<h3>Hardware</h3>
+
+
+<h3>Software (Mobile App)</h3>
+
+<h3>Software (Embedded)</h3>
