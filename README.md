@@ -14,6 +14,9 @@ This repository documents my contributions to my Senior Design Capstone project 
   - Kyle Sellers
 - Courses: EE 4810 and 4820
 
+
+[Video Demo](https://www.youtube.com/watch?v=d3CsGoo7rDo&ab_channel=KyleSellers)
+
 <h2> Table of Contents </h2>
 
  - System Overview
